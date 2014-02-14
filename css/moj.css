@@ -1,0 +1,15 @@
+.mojitem {    margin-bottom: 5px;  font-size : 18px;
+}
+
+.mojitem1 { border: 1px solid; border-color:#f2f1f1;  margin-bottom: 5px; height:80px; overflow : hidden;
+}
+
+.nevidljivo
+{ display : none;
+}
+
+ 
+
+.robanaslov { border-bottom : 1px dashed ; border-color:#f2f1f1  ;  margin-bottom: 1px; position:relative; height:40px; overflow : hidden;
+}
+ 
